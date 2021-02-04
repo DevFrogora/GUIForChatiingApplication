@@ -1,5 +1,6 @@
 
-class SwingWorker{
-	
-	public void getLoader(){}
+class SwingWorker {
+
+	public void getLoader() {
+	}
 }
