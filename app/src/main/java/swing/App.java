@@ -27,9 +27,6 @@ public class App {
 						BorderLayout.CENTER);
 				mainContainer.add(panel2.getPanel(), BorderLayout.EAST);
 				mainContainer.add(panel3.getPanel(), BorderLayout.SOUTH);
-				// frame.pack();
-
-				// frameBeep.add();
 
 			}
 		});

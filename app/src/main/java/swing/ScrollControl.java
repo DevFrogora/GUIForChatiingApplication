@@ -106,8 +106,6 @@ class ScrollControl implements AdjustmentListener {
         textPane.setDocument(doc);
 
         String username = "&lt;@" + "Username" + ">";
-        String[] emojiurlarr = {
-                "https://media.discordapp.net/attachments/761245357144932353/806199786222911528/smileblob.png" };
 
         center.setPreferredSize(center.getPreferredSize());
         textFieldMsg.addKeyListener(new KeyAdapter() {

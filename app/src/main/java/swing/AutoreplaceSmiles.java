@@ -14,7 +14,7 @@ import java.awt.image.BufferedImage;
 import javax.swing.text.html.HTMLDocument;
 
 public class AutoreplaceSmiles extends JTextPane {
-    // static ImageIcon SMILE_IMG=createImage();
+
 
     public AutoreplaceSmiles() {
         super();
