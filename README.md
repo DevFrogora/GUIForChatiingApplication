@@ -48,3 +48,24 @@ Welcome <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="
     </td>
   </tr>
 </table>
+
+    +--------+   +-------+    +-------+
+    |        | --+ ditaa +--> |       |
+    |  Text  |   +-------+    |diagram|
+    |Document|   |!magic!|    |       |
+    |     {d}|   |       |    |       |
+    +---+----+   +-------+    +-------+
+        :                         ^
+        |       Lots of work      |
+        +-------------------------+
+
+        
+    +----------+                        XXXXX
+    |          |                        X    X
+    |          ++                       X    X     nice we got here
+    |          +------------------>X    X    XX
+    |          |                   X    X     X
+    +----------+                   X    X     X   X
+                                   X    X     X   X
+                                   XXXXXX      XXXX
+
