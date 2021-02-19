@@ -7,6 +7,8 @@ import java.awt.FlowLayout;
 import javax.swing.BoxLayout;
 import javax.swing.ImageIcon;
 import java.awt.Image;
+import java.nio.file.Paths;
+
 import javax.imageio.ImageIO;
 import java.awt.Dimension;
 import java.awt.*;
@@ -59,7 +61,7 @@ class Panel3 {
 		msgBoxPanel.add(scroll, BorderLayout.CENTER);
 		textBoxPanel.add(msgBoxPanel);
 		textBoxPanel.add(btn_send);
-
+		System.out.println(Paths.get(".").toAbsolutePath());
 		btn_send.setIcon(new ImageIcon(getResourceImage(iconSadBlobPath)));
 		btn_attach.setIcon(new ImageIcon(getResourceImage(iconattachmentPath)));
 
