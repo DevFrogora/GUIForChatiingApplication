@@ -49,23 +49,5 @@ Welcome <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="
   </tr>
 </table>
 
-    +--------+   +-------+    +-------+
-    |        | --+ ditaa +--> |       |
-    |  Text  |   +-------+    |diagram|
-    |Document|   |!magic!|    |       |
-    |     {d}|   |       |    |       |
-    +---+----+   +-------+    +-------+
-        :                         ^
-        |       Lots of work      |
-        +-------------------------+
-
-        
-    +----------+                        XXXXX
-    |          |                        X    X
-    |          ++                       X    X     nice we got here
-    |          +------------------>X    X    XX
-    |          |                   X    X     X
-    +----------+                   X    X     X   X
-                                   X    X     X   X
-                                   XXXXXX      XXXX
+[![](https://mermaid.ink/img/eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICAgWypdIC0tPiBlYXRcbiAgICBlYXQgLS0-IGNvZGVcbiAgICBjb2RlIC0tPiBzbGVlcCBcbiAgICBzbGVlcCAtLT4gZWF0XG4gICAgICAgICAgICAiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG4gICAgWypdIC0tPiBlYXRcbiAgICBlYXQgLS0-IGNvZGVcbiAgICBjb2RlIC0tPiBzbGVlcCBcbiAgICBzbGVlcCAtLT4gZWF0XG4gICAgICAgICAgICAiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
 
