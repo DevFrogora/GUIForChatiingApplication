@@ -3,4 +3,5 @@
 #
 # These are explicitly windows files and should use crlf
 *.bat           text eol=crlf
-
+app/* linguist-documentation=false
+app/* linguist-vendored
